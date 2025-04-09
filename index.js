@@ -23,6 +23,7 @@ app.use(cors(
             "http://localhost:5173",
             "http://localhost:5174",
             "https://melbet.oracleapi.net",
+            "https://ggwiwigames.onrender.com",
             "*",
           ], // Specify the allowed origin
         methods: ["GET", "POST", "PUT", "DELETE","PATCH","OPTIONS"], // Specify allowed methods
