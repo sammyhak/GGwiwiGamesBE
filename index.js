@@ -22,7 +22,7 @@ app.use(cors(
         origin:[
             "http://localhost:5173",
             "http://localhost:5174",
-            "https://melbet.oracleapi.net",
+            "https://99wiwi-games.vercel.app",
             "https://ggwiwigames.onrender.com",
             "*",
           ], // Specify the allowed origin
