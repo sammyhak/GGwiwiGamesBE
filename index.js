@@ -37,7 +37,7 @@ app.use('/auth', AuthRouter);
 app.use("/admin",admin_route);
 app.use("/user",user_route);
 app.get("/",(req,res)=>{
-    res.send("hello unibethub backend part!")
+    res.send("hello backend part!")
 })
 app.listen(PORT, () => {
     console.log(`Server is running on ${PORT}`)
