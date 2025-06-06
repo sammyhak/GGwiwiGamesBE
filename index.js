@@ -21,7 +21,7 @@ app.use(cors(
     {
         origin:[
             "http://localhost:5173",
-            "http://localhost:5174",
+            "http://localhost:5000",
             "https://99wiwi-games.vercel.app",
             "https://ggwiwigames.onrender.com",
             "*",
